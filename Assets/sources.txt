@@ -1,0 +1,7 @@
+Code sources:
+"Coroutines in Unity (how & when to use them)" by Game Dev Beginner, https://www.youtube.com/watch?v=kUP6OK36nrM&ab_channel=GameDevBeginner
+Unity Docs - https://docs.unity3d.com/ScriptReference/
+
+Asset sources:
+Third Person Character Model - Basic Locomotion FREE by Invector, https://assetstore.unity.com/packages/tools/game-toolkits/third-person-controller-basic-locomotion-free-82048
+Level Objects - ProBuilder by Unity
